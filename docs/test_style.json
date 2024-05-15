@@ -10,7 +10,7 @@
       ],
       "minzoom": 4,
       "maxzoom": 16,
-      "attribution": "<a href=\"https://maps.gsi.go.jp/vector/\" target=\"_blank\">地理院地図Vector（仮称）</a>"
+      "attribution": "<a href=\"https://maps.gsi.go.jp/vector/\" target=\"_blank\">国土地理院ベクトルタイル提供実験</a>"
     }
   },
   "sprite": "",
