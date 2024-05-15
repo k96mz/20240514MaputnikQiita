@@ -1,7 +1,7 @@
 {
   "version": 8,
   "name": "Empty Style",
-  "metadata": {"maputnik:renderer": "mlgljs"},
+  "metadata": { "maputnik:renderer": "mlgljs" },
   "sources": {
     "v": {
       "type": "vector",
@@ -9,7 +9,8 @@
         "https://cyberjapandata.gsi.go.jp/xyz/experimental_bvmap/{z}/{x}/{y}.pbf"
       ],
       "minzoom": 4,
-      "maxzoom": 16
+      "maxzoom": 16,
+      "attribution": "<a href=\"https://maps.gsi.go.jp/vector/\" target=\"_blank\">地理院地図Vector（仮称）</a>"
     }
   },
   "sprite": "",
@@ -18,7 +19,7 @@
     {
       "id": "bg",
       "type": "background",
-      "paint": {"background-color": "rgba(232, 225, 225, 1)"}
+      "paint": { "background-color": "rgba(232, 225, 225, 1)" }
     },
     {
       "id": "coastline",
@@ -31,7 +32,7 @@
       "type": "fill",
       "source": "v",
       "source-layer": "waterarea",
-      "paint": {"fill-color": "rgba(20, 101, 223, 1)"}
+      "paint": { "fill-color": "rgba(20, 101, 223, 1)" }
     }
   ],
   "id": "hfkgus5"
