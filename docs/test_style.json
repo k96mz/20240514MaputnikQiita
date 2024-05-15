@@ -8,7 +8,7 @@
       "tiles": [
         "https://cyberjapandata.gsi.go.jp/xyz/experimental_bvmap/{z}/{x}/{y}.pbf"
       ],
-      "minzoom": 0,
+      "minzoom": 4,
       "maxzoom": 16
     }
   },
@@ -18,7 +18,7 @@
     {
       "id": "bg",
       "type": "background",
-      "paint": {"background-color": "rgba(230, 230, 230, 1)"}
+      "paint": {"background-color": "rgba(232, 225, 225, 1)"}
     },
     {
       "id": "coastline",
@@ -31,8 +31,8 @@
       "type": "fill",
       "source": "v",
       "source-layer": "waterarea",
-      "paint": {"fill-color": "rgba(39, 87, 234, 1)"}
+      "paint": {"fill-color": "rgba(20, 101, 223, 1)"}
     }
   ],
-  "id": "5tijxgp"
+  "id": "hfkgus5"
 }
